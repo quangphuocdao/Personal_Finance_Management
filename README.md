@@ -2,10 +2,10 @@
 - Mục tiêu: Bài này nhằm mục đích cung cấp một giải pháp trực quan hóa dữ liệu cho quản lý tài chính cá nhân sử dụng Power BI. Bằng cách sử dụng công cụ này, bạn có thể theo dõi thu nhập, chi tiêu, tiết kiệm và đầu tư của mình một cách dễ dàng và hiệu quả.
 
 Các bước thực hiện
-1. Thu thập Dữ liệu
-- Nguồn dữ liệu: Thu thập dữ liệu từ các nguồn tài chính cá nhân được lưu trữ vào file dataset.
+1. Thu thập Dữ liệu:
+   Nguồn dữ liệu: Thu thập dữ liệu từ các nguồn tài chính cá nhân được lưu trữ vào file dataset.
 
-- Các loại dữ liệu:
+   Các loại dữ liệu:
   
   Thu nhập: Lương, thu nhập từ đầu tư, thu nhập phụ khác.
   
@@ -14,6 +14,7 @@ Các bước thực hiện
   Tiết kiệm và Đầu tư: Tiết kiệm định kỳ, các khoản đầu tư dài hạn, ngắn hạn.
 
 2. Chuẩn bị Dữ liệu:
+   
    Sử dụng Power Query trong Power BI để kết nối và chuyển đổi dữ liệu từ các nguồn khác nhau.
 
    Làm sạch dữ liệu, loại bỏ các giá trị trùng lặp hoặc không cần thiết.
