@@ -1,6 +1,5 @@
-Quản Lý Tài Chính Cá Nhân với Power BI
-Mục tiêu
-Bài này nhằm mục đích cung cấp một giải pháp trực quan hóa dữ liệu cho quản lý tài chính cá nhân sử dụng Power BI. Bằng cách sử dụng công cụ này, bạn có thể theo dõi thu nhập, chi tiêu, tiết kiệm và đầu tư của mình một cách dễ dàng và hiệu quả.
+# Quản Lý Tài Chính Cá Nhân với Power BI
+- Mục tiêu: Bài này nhằm mục đích cung cấp một giải pháp trực quan hóa dữ liệu cho quản lý tài chính cá nhân sử dụng Power BI. Bằng cách sử dụng công cụ này, bạn có thể theo dõi thu nhập, chi tiêu, tiết kiệm và đầu tư của mình một cách dễ dàng và hiệu quả.
 
 Các bước thực hiện
 1. Thu thập Dữ liệu
