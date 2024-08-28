@@ -6,12 +6,12 @@ Các bước thực hiện
    Nguồn dữ liệu: Thu thập dữ liệu từ các nguồn tài chính cá nhân được lưu trữ vào file dataset.
 
    Các loại dữ liệu:
-  
-  Thu nhập: Lương, thu nhập từ đầu tư, thu nhập phụ khác.
-  
-  Chi tiêu: Chi tiêu hàng ngày, chi tiêu theo tháng, và các khoản chi bất thường
-  
-  Tiết kiệm và Đầu tư: Tiết kiệm định kỳ, các khoản đầu tư dài hạn, ngắn hạn.
+
+   Thu nhập: Lương, thu nhập từ đầu tư, thu nhập phụ khác.
+
+   Chi tiêu: Chi tiêu hàng ngày, chi tiêu theo tháng, và các khoản chi bất thường
+
+   Tiết kiệm và Đầu tư: Tiết kiệm định kỳ, các khoản đầu tư dài hạn, ngắn hạn.
 
 2. Chuẩn bị Dữ liệu:
    
