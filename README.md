@@ -3,17 +3,22 @@
 
 Các bước thực hiện
 1. Thu thập Dữ liệu
-Nguồn dữ liệu: Thu thập dữ liệu từ các nguồn tài chính cá nhân được lưu trữ vào file dataset.
+- Nguồn dữ liệu: Thu thập dữ liệu từ các nguồn tài chính cá nhân được lưu trữ vào file dataset.
 
-Các loại dữ liệu:
-- Thu nhập: Lương, thu nhập từ đầu tư, thu nhập phụ khác.
-- Chi tiêu: Chi tiêu hàng ngày, chi tiêu theo tháng, và các khoản chi bất thường.
-- Tiết kiệm và Đầu tư: Tiết kiệm định kỳ, các khoản đầu tư dài hạn, ngắn hạn.
+- Các loại dữ liệu:
+  Thu nhập: Lương, thu nhập từ đầu tư, thu nhập phụ khác.
+  
+  Chi tiêu: Chi tiêu hàng ngày, chi tiêu theo tháng, và các khoản chi bất thường
+  
+  Tiết kiệm và Đầu tư: Tiết kiệm định kỳ, các khoản đầu tư dài hạn, ngắn hạn.
 
 2. Chuẩn bị Dữ liệu
-- Sử dụng Power Query trong Power BI để kết nối và chuyển đổi dữ liệu từ các nguồn khác nhau.
-- Làm sạch dữ liệu, loại bỏ các giá trị trùng lặp hoặc không cần thiết.
-- Tạo các bảng dữ liệu liên quan (bảng thu nhập, chi tiêu, tiết kiệm, đầu tư).
+
+Sử dụng Power Query trong Power BI để kết nối và chuyển đổi dữ liệu từ các nguồn khác nhau.
+
+Làm sạch dữ liệu, loại bỏ các giá trị trùng lặp hoặc không cần thiết.
+
+Tạo các bảng dữ liệu liên quan (bảng thu nhập, chi tiêu, tiết kiệm, đầu tư).
 
 3. Xây dựng Báo cáo
 - Dashboards: Thiết kế các bảng điều khiển trực quan cho từng khía cạnh của tài chính cá nhân:
