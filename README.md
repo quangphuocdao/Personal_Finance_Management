@@ -22,13 +22,13 @@ Các bước thực hiện
    Tạo các bảng dữ liệu liên quan (bảng thu nhập, chi tiêu, tiết kiệm, đầu tư).
 
 3. Xây dựng Báo cáo
-### Dashboards: Thiết kế các bảng điều khiển trực quan cho từng khía cạnh của tài chính cá nhân:
+- Dashboards: Thiết kế các bảng điều khiển trực quan cho từng khía cạnh của tài chính cá nhân:
 
-  Tổng quan tài chính: Biểu đồ dòng tiền (cash flow), tổng quan thu nhập và chi tiêu.
+  - Tổng quan tài chính: Biểu đồ dòng tiền (cash flow), tổng quan thu nhập và chi tiêu.
   
-  Chi tiêu chi tiết: Biểu đồ hình tròn cho các hạng mục chi tiêu lớn nhất, biểu đồ cột theo thời gian.
+  - Chi tiêu chi tiết: Biểu đồ hình tròn cho các hạng mục chi tiêu lớn nhất, biểu đồ cột theo thời gian.
 
-  Tiết kiệm và đầu tư: Theo dõi tăng trưởng tiết kiệm và giá trị đầu tư theo thời gian.
+  - Tiết kiệm và đầu tư: Theo dõi tăng trưởng tiết kiệm và giá trị đầu tư theo thời gian.
 
-  Interactive Visuals: Tạo các biểu đồ và bảng biểu tương tác để người dùng có thể lọc dữ liệu theo thời gian, danh mục chi tiêu, và các yếu tố khác.
+- Interactive Visuals: Tạo các biểu đồ và bảng biểu tương tác để người dùng có thể lọc dữ liệu theo thời gian, danh mục chi tiêu, và các yếu tố khác.
 
