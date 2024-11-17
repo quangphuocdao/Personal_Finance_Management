@@ -22,7 +22,7 @@ Các bước thực hiện
    Tạo các bảng dữ liệu liên quan (bảng thu nhập, chi tiêu, tiết kiệm, đầu tư).
 
 3. Xây dựng Báo cáo
-- Dashboards: Thiết kế các bảng điều khiển trực quan cho từng khía cạnh của tài chính cá nhân:
+### Dashboards: Thiết kế các bảng điều khiển trực quan cho từng khía cạnh của tài chính cá nhân:
 
   Tổng quan tài chính: Biểu đồ dòng tiền (cash flow), tổng quan thu nhập và chi tiêu.
   
